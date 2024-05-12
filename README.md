@@ -45,3 +45,4 @@ _Vous pouvez aussi passer par une inclusion PHP (en cas de pré-traitement de la
 _Fonctionnalité à venir..._
 
 **© 2024 - Cactus 5, Tous droits reservés.** Toute utilisation sans accord de **Cactus** des fichiers contenus dans ce répertoire est interdite.
+**Material UI Icon Pack created by Simon J.**
